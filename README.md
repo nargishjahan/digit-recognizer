@@ -16,7 +16,7 @@ This is a machine learning-based web app that predicts handwritten digits (0–9
 - **TensorFlow / Keras**
 - **Flask**
 - **HTML/CSS (Jinja2 templates)**
-- *(Optional: JavaScript)*
+
 
 🧠 Model Info
 
@@ -26,8 +26,8 @@ It is saved in the file: `mnist_cnn_model.h5`
 🔧 How to Run the App Locally
 
 1. Clone this repo:
-   git clone https://github.com/nargishjahan/digit-recognizer-webapp.git
-   cd digit-recognizer-webapp
+   git clone https://github.com/nargishjahan/digit-recognizer
+   cd digit-recognizer
 
 2. Install required libraries:
    pip install -r requirements.txt
